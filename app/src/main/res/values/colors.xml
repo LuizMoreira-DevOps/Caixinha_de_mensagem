@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+    <color name="rose_dark">#32111B</color>
+    <color name="rose_medium">#7A2E3A</color>
+    <color name="rose_soft">#B85C70</color>
+
+    <color name="paper">#FFF8EF</color>
+    <color name="paper_shadow">#E6CBBE</color>
+
+    <color name="gold_soft">#D8B56D</color>
+    <color name="gold_dark">#7A5A1E</color>
+
+    <color name="text_dark">#2A1A1D</color>
+    <color name="text_light">#FFF8EF</color>
 </resources>
