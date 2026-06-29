@@ -199,3 +199,11 @@ Este app não foi pensado apenas como um exercício técnico. Ele é um presente
 A proposta é juntar tecnologia, memória, fé, humor, referências geek, romantismo e cuidado em uma experiência simples: tocar em uma gavetinha e receber uma mensagem que abraça.
 
 Feito por Luiz, com amor.
+
+## 📄 Licença
+
+Este projeto está licenciado sob a licença MIT.
+
+A licença se aplica ao código-fonte do aplicativo. Mensagens pessoais, referências culturais, nomes de personagens, frases de filmes, músicas e demais conteúdos de terceiros pertencem aos seus respectivos autores e detentores de direitos.
+
+Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
