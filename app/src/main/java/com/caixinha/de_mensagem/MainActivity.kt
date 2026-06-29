@@ -3287,61 +3287,337 @@ class MainActivity : AppCompatActivity() {
             gaveta = "Trilha sonora de nós",
             tipo = "Música",
             titulo = "You'll Never Walk Alone",
-            texto = "Música: You'll Never Walk Alone. Porque quando o caminho apertar, eu quero que você lembre: você nunca caminha sozinha."
+            texto = "🎵 Música: You'll Never Walk Alone\n🎤 Artista/Banda: Gerry & The Pacemakers\n💌 Motivo: Porque quando o caminho apertar, eu quero que você lembre que nunca caminha sozinha. Mesmo nos dias difíceis, eu quero ser presença, mão dada e arquibancada cantando por você."
         ),
         Mensagem(
             gaveta = "Trilha sonora de nós",
             tipo = "Música",
             titulo = "Pra Você Guardei o Amor",
-            texto = "Música: Pra Você Guardei o Amor. Porque tem amores que parecem guardados por Deus até a hora certa de florescer."
+            texto = "🎵 Música: Pra Você Guardei o Amor\n🎤 Artista/Banda: Nando Reis e Ana Cañas\n💌 Motivo: Porque tem amores que parecem guardados com cuidado até a hora certa. Essa música tem cara de bilhete escondido, amor maduro e encontro que não precisa gritar para ser imenso."
         ),
         Mensagem(
             gaveta = "Trilha sonora de nós",
             tipo = "Música",
             titulo = "Velha Infância",
-            texto = "Música: Velha Infância. Porque amar você também tem esse gosto de casa, parceria, riso e vida simples."
+            texto = "🎵 Música: Velha Infância\n🎤 Artista/Banda: Tribalistas\n💌 Motivo: Porque amar você também tem gosto de parceria simples: rir junto, viver junto, dividir rotina e sentir que a vida fica mais leve quando você está por perto."
         ),
         Mensagem(
             gaveta = "Trilha sonora de nós",
             tipo = "Música",
             titulo = "All of Me",
-            texto = "Música: All of Me. Porque amar você é amar suas partes fortes, sensíveis, intensas, cansadas e lindas."
+            texto = "🎵 Música: All of Me\n🎤 Artista/Banda: John Legend\n💌 Motivo: Porque amar você é amar tudo: sua força, sua sensibilidade, suas fases intensas, seu cansaço, seu riso, sua beleza e esse coração enorme que às vezes nem você percebe."
         ),
         Mensagem(
             gaveta = "Trilha sonora de nós",
             tipo = "Música",
             titulo = "A Thousand Years",
-            texto = "Música: A Thousand Years. Porque algumas escolhas parecem atravessar o tempo antes mesmo da gente entender."
+            texto = "🎵 Música: A Thousand Years\n🎤 Artista/Banda: Christina Perri\n💌 Motivo: Porque algumas escolhas parecem atravessar o tempo antes mesmo da gente entender. Tem amores que chegam com cara de promessa antiga."
         ),
         Mensagem(
             gaveta = "Trilha sonora de nós",
             tipo = "Música",
             titulo = "Como é Grande o Meu Amor por Você",
-            texto = "Música: Como é Grande o Meu Amor por Você. Porque às vezes o simples é o jeito mais bonito de dizer o imenso."
+            texto = "🎵 Música: Como é Grande o Meu Amor por Você\n🎤 Artista/Banda: Roberto Carlos\n💌 Motivo: Porque às vezes a frase mais simples é a única que dá conta do tamanho do sentimento. Sem enfeite demais: é grande. Muito grande."
         ),
         Mensagem(
             gaveta = "Trilha sonora de nós",
             tipo = "Música",
             titulo = "Trem-Bala",
-            texto = "Música: Trem-Bala. Porque a vida passa rápido, mas eu quero viver os detalhes dela com você."
+            texto = "🎵 Música: Trem-Bala\n🎤 Artista/Banda: Ana Vilela\n💌 Motivo: Porque a vida passa rápido, e eu quero viver os detalhes com você: o café, o mercado, as crianças, o sofá, os planos, os sustos e as pequenas pazes no meio do caminho."
         ),
         Mensagem(
             gaveta = "Trilha sonora de nós",
             tipo = "Música",
             titulo = "Ainda Bem",
-            texto = "Música: Ainda Bem. Porque ainda bem que a vida, entre tanta gente, trouxe você para perto de mim."
+            texto = "🎵 Música: Ainda Bem\n🎤 Artista/Banda: Marisa Monte\n💌 Motivo: Porque ainda bem que, no meio de tanta gente e tanta possibilidade, a vida trouxe você para perto de mim. Ainda bem mesmo."
         ),
         Mensagem(
             gaveta = "Trilha sonora de nós",
             tipo = "Música",
             titulo = "Fix You",
-            texto = "Música: Fix You. Porque eu não prometo consertar tudo, mas prometo ficar perto enquanto a luz volta."
+            texto = "🎵 Música: Fix You\n🎤 Artista/Banda: Coldplay\n💌 Motivo: Porque eu não prometo consertar tudo. Mas prometo ficar perto enquanto a luz volta, enquanto o peito acalma e enquanto você lembra da força que tem."
         ),
         Mensagem(
             gaveta = "Trilha sonora de nós",
             tipo = "Música",
             titulo = "Yellow",
-            texto = "Música: Yellow. Porque tem gente que faz até o céu parecer ter sido pintado com mais cuidado."
+            texto = "🎵 Música: Yellow\n🎤 Artista/Banda: Coldplay\n💌 Motivo: Porque tem gente que faz o mundo parecer mais bonito sem precisar fazer esforço. Você tem esse tipo de luz: discreta, quente e impossível de ignorar."
+        ),
+        Mensagem(
+            gaveta = "Trilha sonora de nós",
+            tipo = "Música",
+            titulo = "Iris",
+            texto = "🎵 Música: Iris\n🎤 Artista/Banda: Goo Goo Dolls\n💌 Motivo: Porque às vezes a gente só quer ser visto de verdade. E eu vejo você: não só a parte forte, mas também a parte cansada, sensível e humana que merece colo."
+        ),
+        Mensagem(
+            gaveta = "Trilha sonora de nós",
+            tipo = "Música",
+            titulo = "Perfect",
+            texto = "🎵 Música: Perfect\n🎤 Artista/Banda: Ed Sheeran\n💌 Motivo: Porque tem cenas simples que parecem filme: uma música, um olhar, um abraço e a sensação de que a vida acertou em cheio por alguns minutos."
+        ),
+        Mensagem(
+            gaveta = "Trilha sonora de nós",
+            tipo = "Música",
+            titulo = "Thinking Out Loud",
+            texto = "🎵 Música: Thinking Out Loud\n🎤 Artista/Banda: Ed Sheeran\n💌 Motivo: Porque eu quero esse amor que atravessa os anos, muda de fase, ganha marcas, mas continua escolhendo dançar junto."
+        ),
+        Mensagem(
+            gaveta = "Trilha sonora de nós",
+            tipo = "Música",
+            titulo = "Photograph",
+            texto = "🎵 Música: Photograph\n🎤 Artista/Banda: Ed Sheeran\n💌 Motivo: Porque algumas memórias viram fotografia dentro da gente. E eu quero guardar as nossas com carinho, até as mais simples."
+        ),
+        Mensagem(
+            gaveta = "Trilha sonora de nós",
+            tipo = "Música",
+            titulo = "Better Together",
+            texto = "🎵 Música: Better Together\n🎤 Artista/Banda: Jack Johnson\n💌 Motivo: Porque algumas coisas simplesmente ficam melhores juntas. Eu e você temos essa cara de parceria que deixa a vida menos dura."
+        ),
+        Mensagem(
+            gaveta = "Trilha sonora de nós",
+            tipo = "Música",
+            titulo = "Lucky",
+            texto = "🎵 Música: Lucky\n🎤 Artista/Banda: Jason Mraz e Colbie Caillat\n💌 Motivo: Porque amar alguém que também é companhia é uma sorte rara. É romance, mas também amizade, risada e casa."
+        ),
+        Mensagem(
+            gaveta = "Trilha sonora de nós",
+            tipo = "Música",
+            titulo = "I'm Yours",
+            texto = "🎵 Música: I'm Yours\n🎤 Artista/Banda: Jason Mraz\n💌 Motivo: Porque essa tem energia de coração aberto, leveza e escolha. Daquelas que parecem dizer: pronto, cheguei, sou seu."
+        ),
+        Mensagem(
+            gaveta = "Trilha sonora de nós",
+            tipo = "Música",
+            titulo = "You Are the Reason",
+            texto = "🎵 Música: You Are the Reason\n🎤 Artista/Banda: Calum Scott\n💌 Motivo: Porque você é uma das razões pelas quais eu tento ser melhor, continuar, cuidar e construir alguma coisa bonita."
+        ),
+        Mensagem(
+            gaveta = "Trilha sonora de nós",
+            tipo = "Música",
+            titulo = "Stand By Me",
+            texto = "🎵 Música: Stand By Me\n🎤 Artista/Banda: Ben E. King\n💌 Motivo: Porque no fundo é isso: fica comigo. Nos dias bons, nos dias estranhos, nas fases difíceis e nos recomeços."
+        ),
+        Mensagem(
+            gaveta = "Trilha sonora de nós",
+            tipo = "Música",
+            titulo = "Can't Help Falling in Love",
+            texto = "🎵 Música: Can't Help Falling in Love\n🎤 Artista/Banda: Elvis Presley\n💌 Motivo: Porque alguns amores parecem acontecer antes da gente conseguir explicar. Quando vê, o coração já foi."
+        ),
+        Mensagem(
+            gaveta = "Trilha sonora de nós",
+            tipo = "Música",
+            titulo = "Something",
+            texto = "🎵 Música: Something\n🎤 Artista/Banda: The Beatles\n💌 Motivo: Porque tem algo em você que não cabe em explicação rápida. É jeito, presença, olhar, cuidado e esse mistério bonito de ser você."
+        ),
+        Mensagem(
+            gaveta = "Trilha sonora de nós",
+            tipo = "Música",
+            titulo = "Here Comes the Sun",
+            texto = "🎵 Música: Here Comes the Sun\n🎤 Artista/Banda: The Beatles\n💌 Motivo: Porque depois de dias pesados, você me lembra que o sol ainda volta. Às vezes devagar, às vezes pequeno, mas volta."
+        ),
+        Mensagem(
+            gaveta = "Trilha sonora de nós",
+            tipo = "Música",
+            titulo = "God Only Knows",
+            texto = "🎵 Música: God Only Knows\n🎤 Artista/Banda: The Beach Boys\n💌 Motivo: Porque tem amores que a gente tenta medir e não consegue. Só Deus sabe o tamanho exato do que você significa para mim."
+        ),
+        Mensagem(
+            gaveta = "Trilha sonora de nós",
+            tipo = "Música",
+            titulo = "Just the Way You Are",
+            texto = "🎵 Música: Just the Way You Are\n🎤 Artista/Banda: Bruno Mars\n💌 Motivo: Porque você não precisa virar outra pessoa para ser amada. Eu amo seu jeito, suas camadas e sua verdade."
+        ),
+        Mensagem(
+            gaveta = "Trilha sonora de nós",
+            tipo = "Música",
+            titulo = "Count on Me",
+            texto = "🎵 Música: Count on Me\n🎤 Artista/Banda: Bruno Mars\n💌 Motivo: Porque eu quero ser alguém com quem você possa contar. Não só nas grandes cenas, mas nas pequenas também."
+        ),
+        Mensagem(
+            gaveta = "Trilha sonora de nós",
+            tipo = "Música",
+            titulo = "Marry You",
+            texto = "🎵 Música: Marry You\n🎤 Artista/Banda: Bruno Mars\n💌 Motivo: Porque tem uma alegria meio boba e bonita em pensar: sim, eu escolheria você de novo, com música alta e sorriso no rosto."
+        ),
+        Mensagem(
+            gaveta = "Trilha sonora de nós",
+            tipo = "Música",
+            titulo = "Amei Te Ver",
+            texto = "🎵 Música: Amei Te Ver\n🎤 Artista/Banda: Tiago Iorc\n💌 Motivo: Porque tem encontros que parecem simples por fora, mas por dentro mudam o clima inteiro do coração."
+        ),
+        Mensagem(
+            gaveta = "Trilha sonora de nós",
+            tipo = "Música",
+            titulo = "Coisa Linda",
+            texto = "🎵 Música: Coisa Linda\n🎤 Artista/Banda: Tiago Iorc\n💌 Motivo: Porque você é bonita de um jeito que não é só aparência. É presença, detalhe, gesto e alma."
+        ),
+        Mensagem(
+            gaveta = "Trilha sonora de nós",
+            tipo = "Música",
+            titulo = "Eu Sei Que Vou Te Amar",
+            texto = "🎵 Música: Eu Sei Que Vou Te Amar\n🎤 Artista/Banda: Tom Jobim e Vinicius de Moraes\n💌 Motivo: Porque tem declaração que parece atravessar o tempo. Clássica, intensa e direta como promessa."
+        ),
+        Mensagem(
+            gaveta = "Trilha sonora de nós",
+            tipo = "Música",
+            titulo = "Pela Luz dos Olhos Teus",
+            texto = "🎵 Música: Pela Luz dos Olhos Teus\n🎤 Artista/Banda: Tom Jobim e Miúcha\n💌 Motivo: Porque tem olhares que conversam antes da boca. E o seu olhar sempre teve um mundo dentro."
+        ),
+        Mensagem(
+            gaveta = "Trilha sonora de nós",
+            tipo = "Música",
+            titulo = "É Você",
+            texto = "🎵 Música: É Você\n🎤 Artista/Banda: Tribalistas\n💌 Motivo: Porque às vezes o coração não faz discurso: ele aponta e diz simples assim. É você."
+        ),
+        Mensagem(
+            gaveta = "Trilha sonora de nós",
+            tipo = "Música",
+            titulo = "De Janeiro a Janeiro",
+            texto = "🎵 Música: De Janeiro a Janeiro\n🎤 Artista/Banda: Roberta Campos e Nando Reis\n💌 Motivo: Porque eu gosto da ideia de amor atravessando calendário inteiro: janeiro, junho, dias comuns, datas importantes e tudo que vier."
+        ),
+        Mensagem(
+            gaveta = "Trilha sonora de nós",
+            tipo = "Música",
+            titulo = "Ainda Gosto Dela",
+            texto = "🎵 Música: Ainda Gosto Dela\n🎤 Artista/Banda: Skank e Negra Li\n💌 Motivo: Porque tem sentimento que continua ali, mesmo quando a vida cansa, corre, muda e bagunça tudo. Ainda gosto. Muito."
+        ),
+        Mensagem(
+            gaveta = "Trilha sonora de nós",
+            tipo = "Música",
+            titulo = "Dois Rios",
+            texto = "🎵 Música: Dois Rios\n🎤 Artista/Banda: Skank\n💌 Motivo: Porque nós dois somos rios diferentes tentando encontrar o mesmo mar: família, amor, casa e futuro."
+        ),
+        Mensagem(
+            gaveta = "Trilha sonora de nós",
+            tipo = "Música",
+            titulo = "Por Onde Andei",
+            texto = "🎵 Música: Por Onde Andei\n🎤 Artista/Banda: Nando Reis\n💌 Motivo: Porque tem saudade que mostra o tamanho do amor. E quando penso em caminho, volta e casa, acabo pensando em você."
+        ),
+        Mensagem(
+            gaveta = "Trilha sonora de nós",
+            tipo = "Música",
+            titulo = "Resposta",
+            texto = "🎵 Música: Resposta\n🎤 Artista/Banda: Skank\n💌 Motivo: Porque algumas respostas da vida não vêm em frase pronta. Às vezes vêm em forma de pessoa. No meu caso, muita coisa veio em forma de você."
+        ),
+        Mensagem(
+            gaveta = "Trilha sonora de nós",
+            tipo = "Música",
+            titulo = "Só Hoje",
+            texto = "🎵 Música: Só Hoje\n🎤 Artista/Banda: Jota Quest\n💌 Motivo: Porque tem dias em que tudo que a gente precisa é de presença, calma e alguém dizendo: hoje eu fico aqui com você."
+        ),
+        Mensagem(
+            gaveta = "Trilha sonora de nós",
+            tipo = "Música",
+            titulo = "O Sol",
+            texto = "🎵 Música: O Sol\n🎤 Artista/Banda: Jota Quest\n💌 Motivo: Porque você tem esse jeito de lembrar que a luz volta. Mesmo quando parece escondida, ela volta."
+        ),
+        Mensagem(
+            gaveta = "Trilha sonora de nós",
+            tipo = "Música",
+            titulo = "Dias Melhores",
+            texto = "🎵 Música: Dias Melhores\n🎤 Artista/Banda: Jota Quest\n💌 Motivo: Porque eu acredito em dias melhores para nós. Não perfeitos, mas mais leves, mais nossos e mais cheios de paz."
+        ),
+        Mensagem(
+            gaveta = "Trilha sonora de nós",
+            tipo = "Música",
+            titulo = "Pais e Filhos",
+            texto = "🎵 Música: Pais e Filhos\n🎤 Artista/Banda: Legião Urbana\n💌 Motivo: Porque nossa história também tem família, filhos, cuidado, medo, tentativa e amor aprendendo a amadurecer no meio da vida real."
+        ),
+        Mensagem(
+            gaveta = "Trilha sonora de nós",
+            tipo = "Música",
+            titulo = "Tempo Perdido",
+            texto = "🎵 Música: Tempo Perdido\n🎤 Artista/Banda: Legião Urbana\n💌 Motivo: Porque temos nosso próprio tempo. E eu quero gastar o meu construindo algo bonito com você."
+        ),
+        Mensagem(
+            gaveta = "Trilha sonora de nós",
+            tipo = "Música",
+            titulo = "Monte Castelo",
+            texto = "🎵 Música: Monte Castelo\n🎤 Artista/Banda: Legião Urbana\n💌 Motivo: Porque fala de amor com um peso quase sagrado. Amor que não é só sentimento bonito, mas escolha, paciência e entrega."
+        ),
+        Mensagem(
+            gaveta = "Trilha sonora de nós",
+            tipo = "Música",
+            titulo = "Oração",
+            texto = "🎵 Música: Oração\n🎤 Artista/Banda: A Banda Mais Bonita da Cidade\n💌 Motivo: Porque tem amor que parece casa cheia, janela aberta, gente cantando junto e coração encontrando descanso."
+        ),
+        Mensagem(
+            gaveta = "Trilha sonora de nós",
+            tipo = "Música",
+            titulo = "Anunciação",
+            texto = "🎵 Música: Anunciação\n🎤 Artista/Banda: Alceu Valença\n💌 Motivo: Porque tem chegadas que a gente sente antes de ver. Você tem essa energia de chegada bonita, de notícia boa entrando pela porta."
+        ),
+        Mensagem(
+            gaveta = "Trilha sonora de nós",
+            tipo = "Música",
+            titulo = "Girassol",
+            texto = "🎵 Música: Girassol\n🎤 Artista/Banda: Cidade Negra\n💌 Motivo: Porque eu quero que a vida te trate com mais sol, mais leveza e mais motivos para florescer."
+        ),
+        Mensagem(
+            gaveta = "Trilha sonora de nós",
+            tipo = "Música",
+            titulo = "Onde Você Mora?",
+            texto = "🎵 Música: Onde Você Mora?\n🎤 Artista/Banda: Cidade Negra\n💌 Motivo: Porque lar não é só endereço. Às vezes é onde a pessoa amada existe e faz o mundo parecer menos frio."
+        ),
+        Mensagem(
+            gaveta = "Trilha sonora de nós",
+            tipo = "Música",
+            titulo = "Meu Abrigo",
+            texto = "🎵 Música: Meu Abrigo\n🎤 Artista/Banda: Melim\n💌 Motivo: Porque você é abrigo de muitos, mas eu também quero ser abrigo para você quando seu coração cansar."
+        ),
+        Mensagem(
+            gaveta = "Trilha sonora de nós",
+            tipo = "Música",
+            titulo = "Ouvi Dizer",
+            texto = "🎵 Música: Ouvi Dizer\n🎤 Artista/Banda: Melim\n💌 Motivo: Porque tem amor que dá vontade de espalhar por aí, mas no fundo eu só queria que você soubesse bem de perto."
+        ),
+        Mensagem(
+            gaveta = "Trilha sonora de nós",
+            tipo = "Música",
+            titulo = "Trevo",
+            texto = "🎵 Música: Trevo\n🎤 Artista/Banda: Anavitória e Tiago Iorc\n💌 Motivo: Porque você é sorte, mas não só sorte. É encontro, escolha, cuidado e aquele detalhe bom que muda o dia."
+        ),
+        Mensagem(
+            gaveta = "Trilha sonora de nós",
+            tipo = "Música",
+            titulo = "Porque Eu Te Amo",
+            texto = "🎵 Música: Porque Eu Te Amo\n🎤 Artista/Banda: Anavitória\n💌 Motivo: Porque algumas explicações começam e terminam aí: porque eu te amo. Simples, direto e gigante."
+        ),
+        Mensagem(
+            gaveta = "Trilha sonora de nós",
+            tipo = "Música",
+            titulo = "Fica",
+            texto = "🎵 Música: Fica\n🎤 Artista/Banda: Anavitória e Matheus & Kauan\n💌 Motivo: Porque no meio de qualquer caos, tem uma palavra que eu sempre gostaria de dizer para você com carinho: fica."
+        ),
+        Mensagem(
+            gaveta = "Trilha sonora de nós",
+            tipo = "Música",
+            titulo = "Partilhar",
+            texto = "🎵 Música: Partilhar\n🎤 Artista/Banda: Rubel e Anavitória\n💌 Motivo: Porque eu quero partilhar mais do que momentos bonitos. Quero dividir rotina, planos, medo, fé, boletos, riso e futuro."
+        ),
+        Mensagem(
+            gaveta = "Trilha sonora de nós",
+            tipo = "Música",
+            titulo = "Quando Bate Aquela Saudade",
+            texto = "🎵 Música: Quando Bate Aquela Saudade\n🎤 Artista/Banda: Rubel\n💌 Motivo: Porque saudade também é um jeito do coração apontar para onde ele quer voltar."
+        ),
+        Mensagem(
+            gaveta = "Trilha sonora de nós",
+            tipo = "Música",
+            titulo = "Exagerado",
+            texto = "🎵 Música: Exagerado\n🎤 Artista/Banda: Cazuza\n💌 Motivo: Porque eu posso até tentar parecer equilibrado, mas às vezes amar você me deixa ridiculamente exagerado por dentro."
+        ),
+        Mensagem(
+            gaveta = "Trilha sonora de nós",
+            tipo = "Música",
+            titulo = "Codinome Beija-Flor",
+            texto = "🎵 Música: Codinome Beija-Flor\n🎤 Artista/Banda: Cazuza\n💌 Motivo: Porque tem amores que viram código secreto, apelido interno e lugar escondido dentro da memória."
+        ),
+        Mensagem(
+            gaveta = "Trilha sonora de nós",
+            tipo = "Música",
+            titulo = "Amor I Love You",
+            texto = "🎵 Música: Amor I Love You\n🎤 Artista/Banda: Marisa Monte\n💌 Motivo: Porque tem declaração que mistura idioma, bobeira e intensidade, igual coração tentando falar bonito e se embolando todo."
         )
     )
 
