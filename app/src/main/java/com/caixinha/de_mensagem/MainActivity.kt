@@ -25,6 +25,7 @@ class MainActivity : AppCompatActivity() {
     private lateinit var btnLeiaQuandoPrecisar: Button
     private lateinit var btnOQueGosto: Button
     private lateinit var btnUniverso: Button
+    private lateinit var btnMusicas: Button
 
     private val mensagensLeiaQuandoPrecisar = listOf(
         Mensagem(
@@ -3281,6 +3282,69 @@ class MainActivity : AppCompatActivity() {
         )
     )
 
+    private val mensagensMusicas = listOf(
+        Mensagem(
+            gaveta = "Trilha sonora de nós",
+            tipo = "Música",
+            titulo = "You'll Never Walk Alone",
+            texto = "Música: You'll Never Walk Alone. Porque quando o caminho apertar, eu quero que você lembre: você nunca caminha sozinha."
+        ),
+        Mensagem(
+            gaveta = "Trilha sonora de nós",
+            tipo = "Música",
+            titulo = "Pra Você Guardei o Amor",
+            texto = "Música: Pra Você Guardei o Amor. Porque tem amores que parecem guardados por Deus até a hora certa de florescer."
+        ),
+        Mensagem(
+            gaveta = "Trilha sonora de nós",
+            tipo = "Música",
+            titulo = "Velha Infância",
+            texto = "Música: Velha Infância. Porque amar você também tem esse gosto de casa, parceria, riso e vida simples."
+        ),
+        Mensagem(
+            gaveta = "Trilha sonora de nós",
+            tipo = "Música",
+            titulo = "All of Me",
+            texto = "Música: All of Me. Porque amar você é amar suas partes fortes, sensíveis, intensas, cansadas e lindas."
+        ),
+        Mensagem(
+            gaveta = "Trilha sonora de nós",
+            tipo = "Música",
+            titulo = "A Thousand Years",
+            texto = "Música: A Thousand Years. Porque algumas escolhas parecem atravessar o tempo antes mesmo da gente entender."
+        ),
+        Mensagem(
+            gaveta = "Trilha sonora de nós",
+            tipo = "Música",
+            titulo = "Como é Grande o Meu Amor por Você",
+            texto = "Música: Como é Grande o Meu Amor por Você. Porque às vezes o simples é o jeito mais bonito de dizer o imenso."
+        ),
+        Mensagem(
+            gaveta = "Trilha sonora de nós",
+            tipo = "Música",
+            titulo = "Trem-Bala",
+            texto = "Música: Trem-Bala. Porque a vida passa rápido, mas eu quero viver os detalhes dela com você."
+        ),
+        Mensagem(
+            gaveta = "Trilha sonora de nós",
+            tipo = "Música",
+            titulo = "Ainda Bem",
+            texto = "Música: Ainda Bem. Porque ainda bem que a vida, entre tanta gente, trouxe você para perto de mim."
+        ),
+        Mensagem(
+            gaveta = "Trilha sonora de nós",
+            tipo = "Música",
+            titulo = "Fix You",
+            texto = "Música: Fix You. Porque eu não prometo consertar tudo, mas prometo ficar perto enquanto a luz volta."
+        ),
+        Mensagem(
+            gaveta = "Trilha sonora de nós",
+            tipo = "Música",
+            titulo = "Yellow",
+            texto = "Música: Yellow. Porque tem gente que faz até o céu parecer ter sido pintado com mais cuidado."
+        )
+    )
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
@@ -3290,6 +3354,7 @@ class MainActivity : AppCompatActivity() {
         txtTituloMensagem = findViewById(R.id.txtTituloMensagem)
         txtMensagem = findViewById(R.id.txtMensagem)
         cardMensagem = findViewById(R.id.cardMensagem)
+        btnMusicas = findViewById(R.id.btnMusicas)
 
         btnLeiaQuandoPrecisar = findViewById(R.id.btnLeiaQuandoPrecisar)
         btnOQueGosto = findViewById(R.id.btnOQueGosto)
@@ -3305,6 +3370,10 @@ class MainActivity : AppCompatActivity() {
 
         btnUniverso.setOnClickListener {
             sortearMensagem(mensagensUniverso)
+        }
+
+        btnMusicas.setOnClickListener {
+            sortearMensagem(mensagensMusicas)
         }
     }
 

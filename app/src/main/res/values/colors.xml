@@ -1,15 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="rose_dark">#32111B</color>
-    <color name="rose_medium">#7A2E3A</color>
-    <color name="rose_soft">#B85C70</color>
 
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Paleta Caixinha da Cami -->
+    <color name="cami_vinho_escuro">#3B101B</color>
+    <color name="cami_marsala">#6E1F2F</color>
+    <color name="cami_rosado">#C98A91</color>
+    <color name="cami_creme">#FFF4E8</color>
+    <color name="cami_dourado">#D6A84F</color>
+    <color name="cami_papel">#FFF8EF</color>
+    <color name="cami_texto">#2A1712</color>
+
+    <!-- Cores dos botões -->
+    <color name="cami_roxo">#6B55B8</color>
+    <color name="cami_texto_botao">#120B18</color>
+
+    <!-- Compatibilidade com drawables antigos -->
+    <color name="rose_dark">#3B101B</color>
+    <color name="rose_medium">#6E1F2F</color>
+    <color name="gold_soft">#D6A84F</color>
     <color name="paper">#FFF8EF</color>
-    <color name="paper_shadow">#E6CBBE</color>
+    <color name="paper_shadow">#E7D6C4</color>
 
-    <color name="gold_soft">#D8B56D</color>
-    <color name="gold_dark">#7A5A1E</color>
-
-    <color name="text_dark">#2A1A1D</color>
-    <color name="text_light">#FFF8EF</color>
 </resources>
